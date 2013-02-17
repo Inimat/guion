@@ -171,7 +171,7 @@
 
 *Allí en lo alto hay claridad. Las nubes empiezan a despejarse y la luz desaparece.*
 
-##### ENTRA MONTAJE MUSICAL
+##### ♪ ENTRA MONTAJE MUSICAL
 
 *La bandada planea de nuevo a tierra.*
 
@@ -185,4 +185,4 @@
 
 *Una vez ha pasado y se aleja, el Quakstrong le hace unos gestos con el puño recriminando la peligrosa acrobacia aérea.*
 
-##### FIN DEL MONTAJE MUSICAL
+##### ♪ FIN DEL MONTAJE MUSICAL
